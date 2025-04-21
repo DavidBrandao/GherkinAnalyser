@@ -1,0 +1,7 @@
+step,label
+"Given the cart is empty","Precondição"
+"When the user adds an item to the cart","Ação"
+"Then the cart should contain the item","Resultado"
+"Given the user is logged out","Precondição"
+"When the user clicks the login button","Ação"
+"Then the login form is displayed","Resultado"
